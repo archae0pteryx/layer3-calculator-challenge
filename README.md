@@ -2,3 +2,14 @@
 
 ### discord: rimraf.eth
 ### twitter: _rimraf
+
+- rustc 1.59.0 
+- solana 1.8.17
+- anchor 0.22.1
+
+```bash
+# Build
+anchor build
+# Test
+anchor test
+```
